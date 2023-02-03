@@ -2,9 +2,11 @@
 -  I’m interested in all things machine 
 -  I’m currently learning all about coding, app building, website design, graphic design, business ownership
 -  I’m looking to collaborate on anything and everything!!
--  Current Project Golden Ticket App and innovative advanced signal devices and interactive live app of appreciation
--  `Vscode.exe`
+-  Current Project Golden Ticket Safety Equipment Advanced Signaling Device for Commercial, Emergency, and Highway Maintenance Vehicles
 ----
--  E
+    - GTSAAS "Golden Ticket Systems Accumulating Appreciation Services" App for controlling GTSE Advanced Signal Device 
+----- -----
+
+- :-D
+- 
 -  How to reach me christinallen3710@gmail.com
--  
