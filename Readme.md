@@ -1,6 +1,6 @@
 ---
 
-> # HELLO and WELCOME
+> # HELLO and WELCOME 
 
 ---
     
@@ -8,9 +8,11 @@
     
 ---
 
-> #### I've been a Gear Head since I CAN remember, and my first love was and always has been machines. After being a small engine mechanic and working up to heavy equipment, as an Oiler/Fueler and working up to Lowboy Heavy Haul Trucker for various construction and trucking companies, a brilliant idea came to me and I've been a wanna be, working diligently, becoming a Software Engineer, Programmer, Innovator, desparatly hoping for a mericle, living on a shoe string, working 24/7, broke, broken, defeated, battered and suprisingly hopeful that all of my dreams are coming true and soon. 
+>> #### I've been a Gear-Headed Machine-Loving member of the Human-Race ever-since I CAN; remember, and my first love was and always has been machines. As the Comedian Ron White said, "You got a car that's broke you fix it, a tractor that's stuck you can pull it out, a home appliace that's malfunctioning you can replace it, but you can't fix stupid." And as the character Forest Gump said "Stupid is, as Stupid Does." As I say "Never call someone else stupid, as pointing a finger creates 3 pointing back at you and a thumb pointing to GOD/ or higher power that happends to live in the sky for some reason, effectivly saying, "I am 3 times more stupid, than that person over there, and there's a higher power resposible who is also stupid" which sounds like non-sense now that i've typed it out and read it back silently to myself.  
 
->>
+---
+
+>> After being a small engine mechanic and working up to heavy equipment, as an Oiler/Fueler and working up to Lowboy Heavy Haul Trucker for various construction and trucking companies, a brilliant idea came to me and I've been a wanna be, working diligently, becoming a Software Engineer, Programmer, Innovator, desparatly hoping for a mericle, living on a shoe string, working 24/7, broke, broken, defeated, battered and suprisingly hopeful that all of my dreams are coming true and soon, **unique X-Press-ION; of a unique individual, with li-ber-ty and just-ice for all.**
 
 ---
 
